@@ -1,0 +1,11 @@
+python-dotenv
+ipykernel
+streamlit==1.39.0
+unidecode
+langchain==0.3.2
+langchain_openai==0.2.2
+psycopg2==2.9.9
+faiss-cpu==1.8.0
+pypdf==4.2.
+open_clip_torch==2.27.1
+torch==2.5.0
